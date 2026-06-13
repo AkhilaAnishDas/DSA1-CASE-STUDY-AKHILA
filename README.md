@@ -4,7 +4,7 @@
 
 **Akhila Anish**
 * 📝 ROLL NO: 150096725016 
-*📍COHORT: LARRY PAGE (2025-2029)
+* 📍COHORT: LARRY PAGE (2025-2029)
 * 🎓 B.Tech Computer Science & Engineering
 * 🏫 ITM Skills University
 
