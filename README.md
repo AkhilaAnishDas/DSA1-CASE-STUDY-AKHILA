@@ -3,10 +3,10 @@
 ## 👨‍💻 Author
 
 **Akhila Anish**
-📝 ROLL NO: 150096725016
-📍COHORT: LARRY PAGE (2025-2029)
-🎓 B.Tech Computer Science & Engineering
-🏫 ITM Skills University
+* 📝 ROLL NO: 150096725016 
+*📍COHORT: LARRY PAGE (2025-2029)
+* 🎓 B.Tech Computer Science & Engineering
+* 🏫 ITM Skills University
 
 🔗 **GitHub Repository:**
 https://github.com/AkhilaAnishDas/DSA1-CASE-STUDY-AKHILA.git
@@ -659,7 +659,5 @@ The project demonstrates efficient problem-solving using DSA while providing a s
 ---
 
 # 🙏 Thank You
-
-If you found this project useful, consider giving the repository a ⭐ on GitHub.
 
 Happy Coding! 🚀
